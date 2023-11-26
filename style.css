@@ -2,3 +2,9 @@ body {
     background-image: url('assets\background\hero.jpg');
     background-repeat: no-repeat;
 }
+
+.carousel-item img {
+    object-fit: cover;
+    height: 40vh;
+    width: 100%;
+}
