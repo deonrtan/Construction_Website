@@ -8,3 +8,8 @@ body {
     height: 40vh;
     width: 100%;
 }
+
+.products-img {
+    height: 400;
+    width: 300;
+}
