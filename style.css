@@ -8,3 +8,16 @@ body {
     height: 40vh;
     width: 100%;
 }
+
+/* Search Bar */
+.my-form {
+    padding: 10px;
+}
+
+.my-input {
+    padding: 5px;
+}
+
+.my-buttons {
+    padding: 10px;
+}
